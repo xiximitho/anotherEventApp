@@ -1,11 +1,4 @@
 {
-  "expo": {
-    "name": "anotherEventApp",
-    "slug": "anotherEventApp",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "anotherEventApp"
+  "name": "AnotherEventApp",
+  "displayName": "AnotherEventApp"
 }
